@@ -26,7 +26,7 @@ To set up this project locally, follow the steps below:
 ### Steps
 1. Clone the repository:
 bash
-   git clone https://github.com/wilscooding/customer-support-ai.git
+   git clone https://github.com/bengentle10/customer-support-ai.git
 
 2. Navigate into the project directory:
 bash
@@ -82,4 +82,4 @@ bash
 
 
 ## Contact
-For any inquiries or support, you can reach me at wilkin.aneudyruiz@gmail.com
+For any inquiries or support, you can reach me at bengentle10@gmail.com
